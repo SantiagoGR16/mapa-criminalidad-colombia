@@ -1,0 +1,31 @@
+# Data processing
+pandas>=2.0
+numpy>=1.24
+
+# Geospatial
+geopandas>=0.14
+shapely>=2.0
+
+# Visualization
+matplotlib>=3.7
+plotly>=5.18
+folium>=0.15
+
+# Data ingestion
+requests>=2.31
+sodapy>=2.2
+
+# Dashboard
+streamlit>=1.30
+streamlit-folium>=0.18
+
+# Analysis helpers
+missingno>=0.5
+unidecode>=1.3
+
+# Testing
+pytest>=7.4
+
+# Utilities
+python-dotenv>=1.0
+loguru>=0.7
